@@ -113,7 +113,7 @@ function App() {
         </div>
 
       </div>
-      <div className="grid grid-cols-2 gap-4 py-5">
+      <div className="grid md:grid-cols-2 gap-4 py-5">
         <div className="">
           <h2 className="text-center text-2xl bg-green-200 py-2">Add Order</h2>
           <div className="grid grid-cols-3 mt-2 gap-2">
